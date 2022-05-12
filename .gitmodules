@@ -1,0 +1,6 @@
+[submodule "modules/ver"]
+	path = modules/ver
+	url = /data/data/com.termux/files/home/github/ver/
+[submodule "modules/touches-controller"]
+	path = modules/touches-controller
+	url = /data/data/com.termux/files/home/github/touches-controller
